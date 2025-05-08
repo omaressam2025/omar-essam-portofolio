@@ -796,6 +796,9 @@ section {
   .section {
     padding: 1rem 1rem;
   }
+  .sec1{
+    margin-left: -70px;
+  }
   .about-stats .progress-bars {
     grid-template-columns: 1fr;
   }
