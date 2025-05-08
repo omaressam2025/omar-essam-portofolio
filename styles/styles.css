@@ -794,7 +794,7 @@ section {
 }
 @media screen and (max-width: 710px) {
   .section {
-    padding: 7rem 3rem;
+    padding: 1rem 1rem;
   }
   .about-stats .progress-bars {
     grid-template-columns: 1fr;
